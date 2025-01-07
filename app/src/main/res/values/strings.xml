@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">websocket推流</string>
+
+    <string-array name="frame_rate_array">
+        <item>30</item>
+        <item>15</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+    </string-array>
+
+    <string-array name="bitrate_array">
+        <item>20m</item>
+        <item>100k</item>
+        <item>200k</item>
+        <item>400k</item>
+        <item>1m</item>
+        <item>2m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>40m</item>
+        <item>80m</item>
+        <item>200m</item>
+        <item>400m</item>
+        <item></item>
+    </string-array>
+
+    <string-array name="encoding_format_array">
+        <item>video/hevc</item>
+        <item>video/avc</item>
+    </string-array>
+
+    <string name="target_device_prompt">选择目标设备</string>
+</resources>
